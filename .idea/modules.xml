@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/MaratonaDevDojo_.iml" filepath="$PROJECT_DIR$/MaratonaDevDojo_.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+>>>>>>> f3495e7894a0b02d5ecd81bdaa9eb5123f0e57c6
+    </modules>
+  </component>
+</project>
